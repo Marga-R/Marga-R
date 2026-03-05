@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Margarida Ribeiro</h1>
-<p>A student learning different kinds of Development</p>
+<h1>Hi, I'm Margarida Ribeiro</h1>
+<p>A student learning different kinds of Development, I am specially really interrested in game development, haven't had a chance to do much regarding games, have only ever made a small 3 level parkour game in Unity and would love to do more. In general programming is something I find really interresting and sometimes challenging but always a fun learning experience.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
